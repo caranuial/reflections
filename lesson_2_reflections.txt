@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 add git structure - to ahve this meta structer to use
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+separate done work from continuing work and separate each work item
