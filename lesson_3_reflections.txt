@@ -13,3 +13,7 @@ kepp yourselfe upt o date
 see the progress
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 both at the baginig later makes things simpler
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+test new staff
+add colaborator 
+don't toch working staff
